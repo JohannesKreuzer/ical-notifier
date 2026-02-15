@@ -1,0 +1,10 @@
+{
+  "ical_url": "https://example.com/calendar.ics",
+  "poll_interval_minutes": 15,
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "sender_email": "your-email@gmail.com",
+  "sender_password": "your-app-password",
+  "recipient_email": "recipient@example.com",
+  "seen_events_file": "seen_events.json"
+}
